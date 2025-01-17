@@ -8,7 +8,7 @@ pipeline {
 
             steps {
 
-                bat 'npm install' 
+                'npm install' 
 
             }
 
