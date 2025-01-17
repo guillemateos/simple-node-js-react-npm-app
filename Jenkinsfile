@@ -8,7 +8,7 @@ pipeline {
 
             steps {
 
-                sh.exe 'npm install' 
+                sh 'npm install' 
 
             }
 
