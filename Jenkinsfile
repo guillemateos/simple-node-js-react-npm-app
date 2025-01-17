@@ -8,7 +8,7 @@ pipeline {
 
             steps {
 
-                'npm install' 
+                sh 'npm install' 
 
             }
 
